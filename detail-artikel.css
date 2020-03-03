@@ -7,11 +7,11 @@ body
 {
     margin: 0px;
     padding: 0px;
-    /*background: #000 url(images/img01.jpg) no-repeat center top;*/
+    background: turquoise url(images/chupscinema_logo.png) no-repeat center;
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 12pt;
     font-weight: 300;
-    color: #000000;
+    color: turquoise;
 }
 
 
@@ -255,6 +255,12 @@ ul.contact li a.icon-rss:before { background: #F2600B; }
     float: right;
 }
 
+span
+{
+    font-size: large;
+    font-weight: 400;
+}
+
 /*********************************************************************************/
 /* Header                                                                        */
 /*********************************************************************************/
@@ -270,7 +276,7 @@ ul.contact li a.icon-rss:before { background: #F2600B; }
     position: relative;
     margin-top: em;
     padding: 3em 0em;
-    background: #96063b;
+    background: turquoise;
 }
 
 #header-artikel
@@ -406,14 +412,16 @@ ul.contact li a.icon-rss:before { background: #F2600B; }
 
 #page h2
 {
-    padding-bottom: 1.5em;
+    padding-bottom: 0.5em;
+    font-style: normal;
+    text-decoration: underline;
     font-size: 2.2em;
     font-weight: 600;
 }
 
 #page h3
 {
-    padding-bottom: 1em;
+    padding-bottom: 0.5em;
     font-size: 1.8em;
     font-weight: 400;
 }
@@ -430,7 +438,17 @@ ul.contact li a.icon-rss:before { background: #F2600B; }
 
 .left-content
 {
-    
+    display: block;
+    float: left;
+    background-color: rgba(206, 206, 206, 0);
+}
+
+.right-content
+{
+    display: block;
+    float: left;
+    max-width: 75%;
+    background-color: rgba(206, 206, 206, 0);
 }
 
 /*********************************************************************************/
