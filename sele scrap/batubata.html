@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+<script>
+     $(document).ready(function()
+     {
+        $.getJSON('batubata.json',function(data)
+        {
+            var headline_data = '';
+            var i = 1;
+            headline_data += "<table border='1'><tr><td>No</td><td>Model</td><td>Harga</td></tr>"
+            $.each(data, function(key, value) 
+            {
+                headline_data += '<tr>';
+                headline_data += '<td>'+i+'</td>'
+                headline_data += '<td>'+value.Model+'</td>'
+                headline_data += '<td>'+value.Harga+'</td>'
+                headline_data += '</tr>';
+                i = i + 1;
+            });
+            $('#headline').append(headline_data);
+        });
+    });
+</script>
+<script>
+    $(document).ready(function()
+    {
+       $.getJSON('batubata_shopee.json',function(data)
+       {
+           var headline_data = '';
+           var i = 1;
+           headline_data += "<table border='1'><tr><td>No</td><td>Model</td><td>Harga</td><td>Harga diskon</td><td>Terjual</td><td>Kota</td></tr>"
+           $.each(data, function(key, value) 
+           {
+               headline_data += '<tr>';
+               headline_data += '<td>'+i+'</td>'
+               headline_data += '<td>'+value.Model+'</td>'
+               headline_data += '<td>'+value.Harga+'</td>'
+               headline_data += '<td>'+value.Harga_diskon+'</td>'
+               headline_data += '<td>'+value.Terjual+'</td>'
+               headline_data += '<td>'+value.Kota+'</td>'
+               headline_data += '</tr>';
+               i = i + 1;
+           });
+           $('#headline1').append(headline_data);
+       });
+   });
+</script>
+<body>
+    <div style="float: left; margin-left: 10%;">
+        <h1>Scraping Web Bata</h1>
+        <div id="headline" style="font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;"></div>
+    </div>
+    <div style="float: right; margin-right: 10%;">
+        <h1>Scraping Marketplace Bata</h1>
+    <div id="headline1" style="font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;"></div>
+    </div>
+</body>
+</html>

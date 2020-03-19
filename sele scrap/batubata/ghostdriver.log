@@ -1,0 +1,527 @@
+[INFO  - 2020-03-19T11:57:14.427Z] GhostDriver - Main - running on port 65431
+[INFO  - 2020-03-19T11:57:18.881Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2020-03-19T11:57:18.882Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.customHeaders:  - {}
+[INFO  - 2020-03-19T11:57:18.882Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2020-03-19T11:57:18.882Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: c8ab66b0-69d8-11ea-83b7-871b0f5927a9
+[ERROR - 2020-03-19T11:57:32.125Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - msg: [2020-03-19 06:57:32] [ERROR] Failed to load the "Magento_Msrp/js/view/checkout/minicart/subtotal/totals" component.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:32.125Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - stack:
+  show (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/Magento_Ui/js/lib/logger/console-output-handler.min.js:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:32.126Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - msg: [2020-03-19 06:57:32] [ERROR] Failed to load the "Magento_Tax/js/view/checkout/minicart/subtotal/totals" component.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:32.126Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - stack:
+  show (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/Magento_Ui/js/lib/logger/console-output-handler.min.js:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:32.126Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - msg: [2020-03-19 06:57:32] [ERROR] Failed to load the "Magento_Ui/js/view/messages" component.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:32.126Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - stack:
+  show (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/Magento_Ui/js/lib/logger/console-output-handler.min.js:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:32.126Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - msg: Error: Script error for: mageplaza/core/jquery/popup
+http://requirejs.org/docs/errors.html#scripterror
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:32.126Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - stack:
+  (anonymous function) (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/mage/apply/main.min.js:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:32.127Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - msg: [2020-03-19 06:57:32] [ERROR] Failed to load the "Amazon_Login/js/view/login-button-wrapper" component.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:32.127Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - stack:
+  show (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/Magento_Ui/js/lib/logger/console-output-handler.min.js:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:32.127Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - msg: Error: Script error for: Magento_Ui/js/lib/core/element/element
+http://requirejs.org/docs/errors.html#scripterror
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:32.127Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - stack:
+  (anonymous function) (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/mage/apply/main.min.js:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:32.127Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - msg: Error: Script error for: Df_Intl/dic
+http://requirejs.org/docs/errors.html#scripterror
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:32.127Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - stack:
+  defaultOnError (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:13)
+  onError (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:41)
+  onScriptError (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:112)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:32.128Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - msg: [2020-03-19 06:57:32] [ERROR] Failed to load the "Magento_Customer/js/view/authentication-popup" component.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:32.128Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - stack:
+  show (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/Magento_Ui/js/lib/logger/console-output-handler.min.js:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:32.128Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - msg: Error: Script error for: mage/storage
+http://requirejs.org/docs/errors.html#scripterror
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:32.128Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - stack:
+  (anonymous function) (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/mage/apply/main.min.js:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:32.128Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - msg: Error: Script error for: mage/storage
+http://requirejs.org/docs/errors.html#scripterror
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:32.128Z] Sessio[INFO  - 2020-03-19T11:59:30.032Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-03-19T12:04:30.039Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-03-19T12:09:30.049Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-03-19T12:14:30.052Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-03-19T12:19:30.054Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-03-19T12:24:30.057Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-03-19T12:29:30.065Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-03-19T12:34:30.072Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-03-19T12:34:53.843Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-03-19T12:37:20.409Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+s - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-03-19T12:26:52.601Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-03-19T12:31:52.606Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-03-19T12:36:52.606Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-03-19T12:36:04.807Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+d - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+s - Asynchronous Sessions clean-up phase starting NOW
+d - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-03-19T12:35:59.447Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-03-19T12:36:56.923Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-03-19T12:35:26.252Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-03-19T12:36:26.221Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+ack:
+  show (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/Magento_Ui/js/lib/logger/console-output-handler.min.js:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:32.130Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - msg: [2020-03-19 06:57:32] [ERROR] Failed to load the "Magento_Captcha/js/view/checkout/loginCaptcha" component.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:32.131Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - stack:
+  show (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/Magento_Ui/js/lib/logger/console-output-handler.min.js:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:32.131Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - msg: Error: Script error for: Df_Intl/t
+http://requirejs.org/docs/errors.html#scripterror
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:32.131Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - stack:
+  defaultOnError (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:13)
+  onError (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:41)
+  onScriptError (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:112)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:32.131Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - msg: [2020-03-19 06:57:32] [ERROR] Failed to load the "uiComponent" component.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:32.131Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - stack:
+  show (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/Magento_Ui/js/lib/logger/console-output-handler.min.js:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:32.132Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - msg: [2020-03-19 06:57:32] [ERROR] Failed to load the "uiComponent" component.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:32.132Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - stack:
+  show (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/Magento_Ui/js/lib/logger/console-output-handler.min.js:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:32.132Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - msg: [2020-03-19 06:57:32] [ERROR] Failed to load the "uiComponent" component.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:32.132Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - stack:
+  show (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/Magento_Ui/js/lib/logger/console-output-handler.min.js:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:32.132Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - msg: [2020-03-19 06:57:32] [ERROR] Failed to load the "uiComponent" component.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:32.132Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - stack:
+  show (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/Magento_Ui/js/lib/logger/console-output-handler.min.js:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:32.133Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - msg: [2020-03-19 06:57:32] [ERROR] Failed to load the "uiComponent" component.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:32.133Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - stack:
+  show (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/Magento_Ui/js/lib/logger/console-output-handler.min.js:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:32.133Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - msg: [2020-03-19 06:57:32] [ERROR] Failed to load the "uiComponent" component.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:32.133Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - stack:
+  show (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/Magento_Ui/js/lib/logger/console-output-handler.min.js:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:32.133Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - msg: [2020-03-19 06:57:32] [ERROR] Failed to load the "Magento_Theme/js/view/messages" component.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:32.133Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - stack:
+  show (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/Magento_Ui/js/lib/logger/console-output-handler.min.js:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:32.134Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - msg: [2020-03-19 06:57:32] [ERROR] Failed to load the "Mageplaza_SocialLogin/js/view/social-buttons" component.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:32.134Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - stack:
+  show (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/Magento_Ui/js/lib/logger/console-output-handler.min.js:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:35.047Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - msg: Error: Script error for: mage/url
+http://requirejs.org/docs/errors.html#scripterror
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:35.047Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - stack:
+  (anonymous function) (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/mage/apply/main.min.js:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:35.047Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - msg: Error: Script error for: mage/url
+http://requirejs.org/docs/errors.html#scripterror
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:35.047Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - stack:
+  (anonymous function) (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/mage/apply/main.min.js:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:35.047Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - msg: Error: Script error for: mage/url
+http://requirejs.org/docs/errors.html#scripterror
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:35.047Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - stack:
+  (anonymous function) (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/mage/apply/main.min.js:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:35.047Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - msg: Error: Script error for: mage/url
+http://requirejs.org/docs/errors.html#scripterror
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:35.047Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - stack:
+  (anonymous function) (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/mage/apply/main.min.js:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:35.048Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - msg: Error: Script error for: mage/url
+http://requirejs.org/docs/errors.html#scripterror
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:35.048Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - stack:
+  (anonymous function) (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/mage/apply/main.min.js:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:35.049Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - msg: [2020-03-19 06:57:35] [ERROR] Failed to load the "Magento_Checkout/js/view/minicart" component.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:35.049Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - stack:
+  show (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/Magento_Ui/js/lib/logger/console-output-handler.min.js:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:35.049Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - msg: [2020-03-19 06:57:35] [ERROR] Failed to load the "Magento_Tax/js/view/checkout/minicart/subtotal/totals" component.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:35.050Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - stack:
+  show (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/Magento_Ui/js/lib/logger/console-output-handler.min.js:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:35.050Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - msg: [2020-03-19 06:57:35] [ERROR] Failed to load the "Magento_Msrp/js/view/checkout/minicart/subtotal/totals" component.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:35.050Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - stack:
+  show (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/Magento_Ui/js/lib/logger/console-output-handler.min.js:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:35.050Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - msg: [2020-03-19 06:57:35] [ERROR] Failed to load the "Magento_Captcha/js/view/checkout/loginCaptcha" component.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:35.050Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - stack:
+  show (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/Magento_Ui/js/lib/logger/console-output-handler.min.js:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:35.051Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - msg: [2020-03-19 06:57:35] [ERROR] Failed to load the "Magento_Ui/js/view/messages" component.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:35.051Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - stack:
+  show (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/Magento_Ui/js/lib/logger/console-output-handler.min.js:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:35.051Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - msg: [2020-03-19 06:57:35] [ERROR] Failed to load the "Magento_Customer/js/view/authentication-popup" component.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:35.051Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - stack:
+  show (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/Magento_Ui/js/lib/logger/console-output-handler.min.js:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:35.052Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - msg: [2020-03-19 06:57:35] [ERROR] Failed to load the "Magento_Catalog/js/storage-manager" component.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:35.052Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - stack:
+  show (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/Magento_Ui/js/lib/logger/console-output-handler.min.js:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:35.052Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - msg: [2020-03-19 06:57:35] [ERROR] Failed to load the "Magento_Theme/js/view/messages" component.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:35.052Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - stack:
+  show (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/Magento_Ui/js/lib/logger/console-output-handler.min.js:2)
+
+  phantomjs://platform/conso[INFO  - 2020-03-19T11:57:39.634Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-03-19T12:02:39.634Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-03-19T12:07:39.635Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-03-19T12:12:39.635Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-03-19T12:17:39.635Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-03-19T12:22:39.636Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-03-19T12:27:39.637Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-03-19T12:32:39.640Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-03-19T12:37:39.639Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+r: Script error for: Magento_Ui/js/lib/core/element/links
+http://requirejs.org/docs/errors.html#scripterror
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:35.053Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - stack:
+  defaultOnError (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:13)
+  onError (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:41)
+  onScriptError (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:112)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:35.054Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - msg: [2020-03-19 06:57:35] [ERROR] Failed to load the "Magento_Catalog/js/view/compare-products" component.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:35.054Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - stack:
+  show (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/Magento_Ui/js/lib/logger/console-output-handler.min.js:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:35.054Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - msg: [2020-03-19 06:57:35] [ERROR] Failed to load the "Magento_Catalog/js/view/image" component.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:35.054Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - stack:
+  show (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/Magento_Ui/js/lib/logger/console-output-handler.min.js:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:37.927Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'url.includes(protocol)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:37.927Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - stack:
+  correctUrlProtocol (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/Mageplaza_SocialLogin/js/popup.min.js:3)
+  (anonymous function) (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/jquery/jquery-ui.min.js:27)
+  initLink (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/Mageplaza_SocialLogin/js/popup.min.js:3)
+  (anonymous function) (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/jquery/jquery-ui.min.js:27)
+  _create (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/Mageplaza_SocialLogin/js/popup.min.js:1)
+  (anonymous function) (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/jquery/jquery-ui.min.js:27)
+  _createWidget (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/jquery/jquery-ui.min.js:33)
+  (anonymous function) (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/jquery/jquery-ui.min.js:26)
+  (anonymous function) (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/jquery/jquery-ui.min.js:25)
+  (anonymous function) (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/mage/apply/main.min.js:2)
+  execCb (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:112)
+  check (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:56)
+  (anonymous function) (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:72)
+  (anonymous function) (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:11)
+  (anonymous function) (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:74)
+  each (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:3)
+  emit (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:74)
+  check (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:61)
+  (anonymous function) (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:72)
+  (anonymous function) (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:11)
+  (anonymous function) (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c[INFO  - 2020-03-19T12:00:56.336Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-03-19T12:05:56.337Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-03-19T12:10:56.341Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-03-19T12:15:56.341Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-03-19T12:20:56.341Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-03-19T12:25:56.342Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-03-19T12:30:56.341Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-03-19T12:35:56.342Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+) (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:72)
+  (anonymous function) (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:11)
+  (anonymous function) (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:74)
+  each (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:3)
+  emit (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:74)
+  check (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:61)
+  enable (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:73)
+  init (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:54)
+  callGetModule (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:74)
+  completeLoad (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:103)
+  onScriptLoad (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:112)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:38.410Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - msg: [2020-03-19 06:57:38] [ERROR] Failed to load the "Magento_Catalog/js/storage-manager" component.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:38.410Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - stack:
+  show (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/Magento_Ui/js/lib/logger/console-output-handler.min.js:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:38.411Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - msg: [2020-03-19 06:57:38] [ERROR] Failed to load the "Magento_Customer/js/view/authentication-popup" component.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:38.411Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - stack:
+  show (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/Magento_Ui/js/lib/logger/console-output-handler.min.js:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:38.411Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - msg: Error: Script error for: Magento_Ui/js/model/messages
+http://requirejs.org/docs/errors.html#scripterror
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:38.411Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - stack:
+  defaultOnError (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:13)
+  onError (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:41)
+  onScriptError (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:112)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:38.412Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - msg: [2020-03-19 06:57:38] [ERROR] Failed to load the "Magento_Checkout/js/view/minicart" component.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:38.412Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - stack:
+  show (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/Magento_Ui/js/lib/logger/console-output-handler.min.js:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:38.412Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - msg: [2020-03-19 06:57:38] [ERROR] Failed to load the "Magento_Captcha/js/view/checkout/loginCaptcha" component.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:38.412Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - stack:
+  show (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/Magento_Ui/js/lib/logger/console-output-handler.min.js:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:40.958Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'url.includes(protocol)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:40.958Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - stack:
+  correctUrlProtocol (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/Mageplaza_SocialLogin/js/popup.min.js:3)
+  (anonymous function) (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/jquery/jquery-ui.min.js:27)
+  initLink (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/Mageplaza_SocialLogin/js/popup.min.js:3)
+  (anonymous function) (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/jquery/jquery-ui.min.js:27)
+  _create (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/Mageplaza_SocialLogin/js/popup.min.js:1)
+  (anonymous function) (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/jquery/jquery-ui.min.js:27)
+  _createWidget (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/jquery/jquery-ui.min.js:33)
+  (anonymous function) (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/jquery/jquery-ui.min.js:26)
+  (anonymous function) (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/jquery/jquery-ui.min.js:25)
+  (anonymous function) (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/mage/apply/main.min.js:2)
+  execCb (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:112)
+  check (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:56)
+  (anonymous function) (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:72)
+  (anonymous function) (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:11)
+  (anonymous function) (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:74)
+  each (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:3)
+  emit (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:74)
+  check (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:61)
+  (anonymous function) (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:72)
+  (anonymous function) (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:11)
+  (anonymous function) (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:74)
+  each (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:3)
+  emit (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:74)
+  check (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:61)
+  (anonymous function) (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:72)
+  (anonymous function) (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:11)
+  (anonymous function) (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:74)
+  each (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:3)
+  emit (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:74)
+  check (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:61)
+  (anonymous function) (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:72)
+  (anonymous function) (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:11)
+  (anonymous function) (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:74)
+  each (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:3)
+  emit (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:74)
+  check (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:61)
+  enable (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:73)
+  init (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:54)
+  callGetModule (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:74)
+  completeLoad (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:103)
+  onScriptLoad (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:112)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:41.543Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - msg: Error: [object Object]
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:41.543Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - stack:
+  (anonymous function) (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/Magento_Customer/js/customer-data.min.js:1)
+  fire (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/jquery.min.js:212)
+  fireWith (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/jquery.min.js:218)
+  done (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/jquery.min.js:628)
+  callback (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/jquery.min.js:655)
+  dispatchEvent (:0)
+  U (:119)
+  $ (:108)
+  $ (:101)
+  gh (:141)
+  sh (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:153)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:41.547Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - msg: [2020-03-19 06:57:41] [ERROR] Failed to load the "Magento_Catalog/js/storage-manager" component.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:41.547Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - stack:
+  show (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/Magento_Ui/js/lib/logger/console-output-handler.min.js:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:43.362Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'url.includes(protocol)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:43.362Z] Session [c8ab66b0-69d8-11ea-83b7-871b0f5927a9] - page.onError - stack:
+  correctUrlProtocol (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/Mageplaza_SocialLogin/js/popup.min.js:3)
+  (anonymous function) (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/jquery/jquery-ui.min.js:27)
+  initLink (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/Mageplaza_SocialLogin/js/popup.min.js:3)
+  (anonymous function) (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/jquery/jquery-ui.min.js:27)
+  _create (https://www.bata.id/static/version1556191326/frontend/W3N/default/en_US/Mageplaza_SocialLogin/js/popup.min.js:1)
+  (anonymous function) (h[INFO  - 2020-03-19T12:02:30.988Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-03-19T12:07:30.988Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-03-19T12:12:31.000Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-03-19T12:17:31.000Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-03-19T12:22:31.000Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-03-19T12:27:31.000Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-03-19T12:32:31.000Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-03-19T12:37:31.000Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+ata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:74)
+  each (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:3)
+  emit (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:74)
+  check (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:61)
+  (anonymous function) (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:72)
+  (anonymous function) (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:11)
+  (anonymous function) (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:74)
+  each (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:3)
+  emit (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:74)
+  check (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:61)
+  (anonymous function) (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:72)
+  (anonymous function) (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:11)
+  (anonymous function) (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:74)
+  each (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:3)
+  emit (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:74)
+  check (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:61)
+  (anonymous function) (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:72)
+  (anonymous function) (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:11)
+  (anonymous function) (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:74)
+  each (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:3)
+  emit (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:74)
+  check (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:61)
+  enable (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:73)
+  init (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:54)
+  callGetModule (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:74)
+  completeLoad (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:103)
+  onScriptLoad (https://www.bata.id/static/version1556191326/_cache/merged/056953d85c6e6e22034c043763e87290.min.js:112)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-19T11:57:53.409Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1584619073404
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2020-03-19T12:02:14.786Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-03-19T12:07:14.790Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-03-19T12:12:14.790Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-03-19T12:17:14.791Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-03-19T12:22:14.790Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-03-19T12:27:14.791Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-03-19T12:32:14.796Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-03-19T12:37:14.797Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      [INFO  - 2020-03-19T12:01:02.477Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-03-19T12:06:02.483Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-03-19T12:11:02.484Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-03-19T12:16:02.483Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-03-19T12:21:02.483Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-03-19T12:26:02.484Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-03-19T12:31:02.484Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-03-19T12:36:02.484Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
